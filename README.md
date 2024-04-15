@@ -1,1 +1,1 @@
-# RabbitMQ
+# RabbitMQ Publisher & Consumer Example
